@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest cache
+.pytest_cache/
+
+# Virtual environment
+venv/
+ENV/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Mac OS configuration files
+.DS_Store
